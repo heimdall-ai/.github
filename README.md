@@ -1,3 +1,0 @@
-# Heimdall AI
-
-Heimdall AI develops long-range unmanned systems and supplies innovative systems equipped with artificial intelligence that are used inside our drones to carry out intelligence, surveillance and research operations. In particular we are going to develop different solutions with a single goal, that of making unmanned missions more efficient with a long-range drone capable of reaching up to 500km in a single flight, with a companion computer capable of locating the desired targets and process the data on board by transmitting them to the ground compressed via satellite technology with which we can reach wherever we need to.
